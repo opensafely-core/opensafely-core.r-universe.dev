@@ -1,0 +1,14 @@
+[
+  {
+    "package": "dd4d",
+    "url": "https://github.com/wjchulme/dd4d"
+  },
+  {
+    "package": "osutils",
+    "url": "https://github.com/wjchulme/osutils"
+  },
+  {
+    "package": "vscDebugger",
+    "url": "https://github.com/ManuelHentschel/vscDebugger"
+  }
+]
