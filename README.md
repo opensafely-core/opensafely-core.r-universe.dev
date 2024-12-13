@@ -12,3 +12,9 @@ This means that packages do not have to be built from source when building the v
 This greatly reduces the build time of the v2 r image.
 
 For info, the corresponding source universe repository (managed by r-universe) is at <https://github.com/r-universe/opensafely-core>.
+
+To check _packages.json_ is formatted correctly run (you need [`uv`](https://docs.astral.sh/uv/getting-started/installation/) installed).
+
+```sh
+just check
+```
